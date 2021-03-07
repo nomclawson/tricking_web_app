@@ -2,7 +2,7 @@
 
 This was my first project creating a web app. I have never done anything other make requests from an API that is related to web development so this was a good learning opportunity. I also was aware that this was new to me and adjusted my expectations so that in the case of difficulty I could adjust my expectations to simply display data. This leaves lots of room for future progress on this project which acted as an brief introduction into web applications and web development.
 
-[Web App Demo - YouTube (not yet uploaded)](http://youtube.com)
+[Web App Demo - YouTube (work in progress)](https://youtu.be/T8rJmsDKxIk)
 
 # Web Pages
 
@@ -14,7 +14,6 @@ This app uses Django and Requests from Python and was developed using Visual Stu
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tricking Database API](http://club540.com/api/tricks)
 * [Similar website which I was attempting to emulate](http://www.club540.com/tricktionary)
 * [Tutorial - RealPython.com](https://realpython.com/get-started-with-django-1/#add-bootstrap-to-your-app)
