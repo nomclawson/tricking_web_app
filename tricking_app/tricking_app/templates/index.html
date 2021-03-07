@@ -1,0 +1,22 @@
+
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<h1>Tricks</h1>
+<div class="row">
+{% for trick in tricks %}
+    <div class="col-md-4">
+        <div class="card mb-2">
+            
+            <div class="card-body">
+                
+                <a href="{% url 'detail' trick.pk %}"
+                   class="btn btn-primary">
+                    {{ trick.name }}
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
