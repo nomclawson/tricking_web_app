@@ -38,6 +38,10 @@ def get_tricks():
             curr_trick = Trick(name=name,description=description,canPerform=canPerform)
             curr_trick.save()
 
+def practice(request):
+  
+    return render(request, 'practice.html')
+
     
 
 
